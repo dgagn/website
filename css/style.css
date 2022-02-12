@@ -217,7 +217,7 @@ button {
 }
 
 .theme_bg {
-     background: #38c8a8;
+     background: #c77838;
 }
 
 .margin_top_30 {
@@ -332,7 +332,7 @@ ul.costomer li a {
 }
 
 .text-bg span {
-     color: #42c366;
+     color: #c27b42;
      font-size: 60px;
      line-height: 77px;
      font-weight: bold;
@@ -358,7 +358,7 @@ ul.costomer li a {
 }
 
 .text-bg a:hover {
-     background-color: #41c365;
+     background-color: #c27a40;
      color: #fff;
 }
 
@@ -395,7 +395,7 @@ ul.costomer li a {
      width: 120px;
      height: 120px;
      border-radius: 77px;
-     border: #41c365 solid 4px;
+     border: #c27a40 solid 4px;
      align-items: center;
      display: flex;
      justify-content: center;
@@ -438,7 +438,7 @@ ul.costomer li a {
 
 .weare {
      margin-top: 70px;
-     background: #d5ede0;
+     background: #ede0d5;
      font-family: Poppins;
      padding: 80px 0;
 }
@@ -487,20 +487,20 @@ ul.costomer li a {
 .bg {
      font-size: 17px;
      background-color: transparent;
-     color: #3fbc61;
+     color: #bd7840;
      padding: 9px 0px;
      width: 100%;
      max-width: 190px;
      float: left;
      text-align: center;
      margin-top: 20px;
-     border: #3fbc61 solid 2px;
+     border: #bd7840 solid 2px;
      text-transform: uppercase;
      font-weight: 500;
 }
 
 .bg:hover {
-     background: #3fbc61;
+     background: #bd7840;
      color: #fff;
 }
 
@@ -535,7 +535,7 @@ ul.costomer li a {
 
 .item {
      text-align: center;
-     background: #3fbc61;
+     background: #bd7840;
      border-radius: 20px;
      padding: 20px;
 }
@@ -544,8 +544,7 @@ ul.costomer li a {
      background: #ddd;
      width: 50px;
      height: 50px;
-     color: #3fbc61;
-     ff;
+     color: #bd7840;
      display: inline-block;
      border-radius: 30px;
 }
@@ -573,7 +572,7 @@ ul.costomer li a {
 }
 
 .owl-dot {
-     background: #41c365 !important;
+     background: #c27a40 !important;
      width: 25px;
      height: 25px;
      border-radius: 25px;
@@ -603,7 +602,7 @@ ul.costomer li a {
      cursor: pointer;
      font-size: 30px;
      line-height: 29px;
-     color: #41c365;
+     color: #c27a40;
 }
 
 .asked_main .ask_box {
@@ -614,7 +613,7 @@ ul.costomer li a {
 
 .simpaly {
      padding: 10px 10px 10px 20px;
-     border: #41c365 solid 2px;
+     border: #c27a40 solid 2px;
      margin-bottom: 20px;
 }
 
@@ -626,32 +625,32 @@ ul.costomer li a {
 }
 
 @import "bourbon";
-$white:#fff;
-$grey: #999;
 @import url(https://fonts.googleapis.com/css?family=News+Cycle);
 .slider {
      font: 1.1em 'News Cycle', sans-serif;
      padding: 1%;
-     background: $grey;
-     color: $white;
+     background: #fff;
+     color: #999;
      margin-bottom: 1%;
-     span {
-          margin-right: .3%;
-     }
-     a {
-          text-decoration: none;
-          color: $white;
-     }
+}
+
+.slider span {
+     margin-right: .3%;
+}
+
+.slider a {
+     text-decoration: none;
+     color: #fff;
 }
 
 .content {
      font: 1em 'News Cycle', sans-serif;
      padding: 1%;
-     p {
-          margin-bottom: 1%;
-     }
 }
 
+.content p {
+     margin-bottom: 1%;
+}
 
 /** end Asked section **/
 
@@ -714,7 +713,7 @@ $grey: #999;
 }
 
 .contact .main_form .send:hover {
-     background-color: #41c365;
+     background-color: #c27a40;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -731,7 +730,7 @@ $grey: #999;
 }
 
 .white {
-     color: #41c365;
+     color: #c27a40;
 }
 
 .cont {
@@ -751,7 +750,7 @@ $grey: #999;
      font-size: 20px;
      transition: ease-in all 0.5s;
      background-color: #fff;
-     color: #41c365;
+     color: #c27a40;
      width: 100%;
      max-width: 275px;
      padding: 7px 0px;
@@ -760,7 +759,7 @@ $grey: #999;
 }
 
 .cont a:hover {
-     background-color: #41c365;
+     background-color: #c27a40;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -788,7 +787,7 @@ $grey: #999;
 }
 
 .footer a:hover {
-     color: #41c365;
+     color: #c27a40;
 }
 
 
